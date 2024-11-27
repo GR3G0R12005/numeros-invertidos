@@ -1,0 +1,15 @@
+C:\Users\grego\OneDrive\Escritorio\Github\numeros invertidos\bin\Debug\net8.0\numeros invertidos.exe
+C:\Users\grego\OneDrive\Escritorio\Github\numeros invertidos\bin\Debug\net8.0\numeros invertidos.deps.json
+C:\Users\grego\OneDrive\Escritorio\Github\numeros invertidos\bin\Debug\net8.0\numeros invertidos.runtimeconfig.json
+C:\Users\grego\OneDrive\Escritorio\Github\numeros invertidos\bin\Debug\net8.0\numeros invertidos.dll
+C:\Users\grego\OneDrive\Escritorio\Github\numeros invertidos\bin\Debug\net8.0\numeros invertidos.pdb
+C:\Users\grego\OneDrive\Escritorio\Github\numeros invertidos\obj\Debug\net8.0\numeros invertidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grego\OneDrive\Escritorio\Github\numeros invertidos\obj\Debug\net8.0\numeros invertidos.AssemblyInfoInputs.cache
+C:\Users\grego\OneDrive\Escritorio\Github\numeros invertidos\obj\Debug\net8.0\numeros invertidos.AssemblyInfo.cs
+C:\Users\grego\OneDrive\Escritorio\Github\numeros invertidos\obj\Debug\net8.0\numeros invertidos.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Escritorio\Github\numeros invertidos\obj\Debug\net8.0\numeros invertidos.sourcelink.json
+C:\Users\grego\OneDrive\Escritorio\Github\numeros invertidos\obj\Debug\net8.0\numeros invertidos.dll
+C:\Users\grego\OneDrive\Escritorio\Github\numeros invertidos\obj\Debug\net8.0\refint\numeros invertidos.dll
+C:\Users\grego\OneDrive\Escritorio\Github\numeros invertidos\obj\Debug\net8.0\numeros invertidos.pdb
+C:\Users\grego\OneDrive\Escritorio\Github\numeros invertidos\obj\Debug\net8.0\numeros invertidos.genruntimeconfig.cache
+C:\Users\grego\OneDrive\Escritorio\Github\numeros invertidos\obj\Debug\net8.0\ref\numeros invertidos.dll
